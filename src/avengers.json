@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Captain America",
-    "image": "https://raw.githubusercontent.com/heincm/react-game/master/public/images/captain_america.png"
+    "image": "./images/captain_america.png"
   },
   {
     "id": 2,
