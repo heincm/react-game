@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-game/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "0fb828ed4e2122f8794a5e49ae13b959",
+    "revision": "965734ca135de5f0ba357afa8ea43d27",
     "url": "/react-game/index.html"
   }
 ];
