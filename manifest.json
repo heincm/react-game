@@ -3,7 +3,7 @@
   "name": "Avenger Clicky Game",
   "icons": [
     {
-      "src": "favicon.jpg",
+      "src": "https://github.com/heincm/react-game/blob/master/public/favicon.jpg?raw=true",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
